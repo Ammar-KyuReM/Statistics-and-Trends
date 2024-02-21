@@ -12,9 +12,9 @@ Visualizations Included:
 2. Pie Chart: Fasting Blood Sugar Distribution Depicts the distribution of fasting blood sugar levels among individuals.
 3. Scatter Plot: Age vs. Max Heart Rate Explores the relationship between age and maximum heart rate, with color indicating the presence of heart disease.
 4. Correlation Heatmap Illustrates correlations between different health attributes. Notable observations include a moderate positive correlation between maximum heart rate and heart disease occurrence.
-5. Violin Plot: Max Heart Rate by Exercise Induced Angina Compares the distribution of maximum heart rates between individuals with and without exercise-induced angina.
-Usage
+5. Violin Plot: Exercise Induced Angina by Age Compares the distribution of individuals with exercise-induced angina.
 
+## Usage
 To replicate the analysis or explore the visualizations further, follow these steps:
 
 ## Clone the repository to your local machine.
